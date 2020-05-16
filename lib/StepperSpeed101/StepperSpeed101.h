@@ -31,15 +31,13 @@ class StepperSpeed101
 {
   public:
     StepperSpeed101();
-    void SetDir(bool, bool);        // Set direction on both steppers
-    void SetRPM(float, float);       // Set Rotations Per Minute on both steppers
-    void SetRPS(float, float);       // Set Rotations Per Second on both steppers
-    void SetAPS(float, float);       // Set Angle Per Second
-    void SetLeftAPS(float);   // Set Angle Per Second on left steppers
-    void SetRightAPS(float);  // Set Angle Per Second on right steppers
-    void SetActive(bool);     // Turn activation of Steppers on and off
+    void SetDir(bool, bool);    // Set direction on both steppers
+    void SetRPM(float, float);  // Set Rotations Per Minute on both steppers
+    void SetRPS(float, float);  // Set Rotations Per Second on both steppers
+    void SetAPS(float, float);  // Set Angle Per Second
+    void SetActive(bool);       // Turn activation of Steppers on and off
 
-    void Start();             // Start the Stepper controllers
+    void Start();               // Start the Stepper controllers
 
 
   private:
