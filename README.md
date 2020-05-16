@@ -12,10 +12,20 @@ The accelerometer and gyroscope are used to determin the upwards angle of the se
 The angel change while loosing balance is fed into a PID system which counter rotates using the stepper motors to counter the balance loss. This is how the robot stays upright and balanced.
 The Controller sticks will add an angle to the tilt so that it starts moving forward and backward. The turn sticks will add a speed difference between booth motors so that the segways can turn.
 
+## Example videos
+
+[Balancing example](https://www.youtube.com/watch?v=Dd7d--UJCoA)
+[Pitch example](https://www.youtube.com/watch?v=g9bDURan0Ac)
+[Pitch and Turn example](https://www.youtube.com/watch?v=KHHvi9PKs44)
+
 ### Proprietary Code
 All the coding from Sensor handling to Stepper controlling , PPM stick control reading and PID feedback was created by Frank Aalbers. I started this project to get better at coding microcontrollers. The [Arduino IDE](https://www.arduino.cc/en/Main/Software) with [PlatformIO](https://platformio.org/) under [VSCODE](https://code.visualstudio.com/) environment was used to develop this code.
 
 ### Code setup and upload
+
+Under construction.
+
+### Hardware setup and upload
 
 Under construction.
 
