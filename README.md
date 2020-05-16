@@ -1,4 +1,4 @@
-![](images/FrankSeggy.jpg)
+![](images/FrankSeggy.JPG)
 
 # Segway Robot
 
