@@ -14,9 +14,9 @@ The Controller sticks will add an angle to the tilt so that it starts moving for
 
 ## Example videos
 
-[Balancing example](https://www.youtube.com/watch?v=Dd7d--UJCoA)
-[Pitch example](https://www.youtube.com/watch?v=g9bDURan0Ac)
-[Pitch and Turn example](https://www.youtube.com/watch?v=KHHvi9PKs44)
+[Balancing example](https://www.youtube.com/watch?v=Dd7d--UJCoA) .
+[Pitch example](https://www.youtube.com/watch?v=g9bDURan0Ac) .
+[Pitch and Turn example](https://www.youtube.com/watch?v=KHHvi9PKs44) .
 
 ### Proprietary Code
 All the coding from Sensor handling to Stepper controlling , PPM stick control reading and PID feedback was created by Frank Aalbers. I started this project to get better at coding microcontrollers. The [Arduino IDE](https://www.arduino.cc/en/Main/Software) with [PlatformIO](https://platformio.org/) under [VSCODE](https://code.visualstudio.com/) environment was used to develop this code.
